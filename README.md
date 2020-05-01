@@ -1,5 +1,5 @@
 # Get-Pipelines
-This python script allows [CircleCI](https://circleci.com( users to fetch all of their pipeline projects that are included within a script. Modify the script's output to best fit your needs!
+This python script allows [CircleCI](https://circleci.com) users to fetch all of their pipeline projects that are included within a script. Modify the script's output to best fit your needs!
 
 # Running
 
